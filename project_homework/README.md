@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 0 homework. Угадай число
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/NikiforovaO/data_science/tree/main/project_homework/README.md#Описание-проекта)  
@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/data_science/tree/main/project_homework/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -33,25 +33,25 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/data_science/tree/main/project_homework/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/data_science/tree/main/project_homework/README.md#Оглавление)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/data_science/tree/main/project_homework/README.md#Оглавление)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/data_science/tree/main/project_homework/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
